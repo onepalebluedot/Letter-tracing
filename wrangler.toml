@@ -1,4 +1,4 @@
-name = "letter-tracing-game"
+name = "letter-tracing"
 main = "worker.js"
 compatibility_date = "2026-02-09"
 
