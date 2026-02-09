@@ -13,9 +13,9 @@ A colorful, touch-friendly toddler web game for practicing letter tracing on iPa
 
 ## Project Structure
 
-- `index.html` - App layout and controls
-- `styles.css` - Visual design and responsive styles
-- `app.js` - Tracing logic, touch input, letter flow
+- `public/index.html` - App layout and controls
+- `public/styles.css` - Visual design and responsive styles
+- `public/app.js` - Tracing logic, touch input, letter flow
 - `worker.js` - Cloudflare Worker request handler for static assets
 - `wrangler.toml` - Wrangler configuration
 
